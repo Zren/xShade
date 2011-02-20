@@ -1,6 +1,6 @@
 name: xShade
 main: com.shade.bukkit.xshade.XShade
-version: 1.3.0
+version: 1.4.0
 commands:
     wallgen:
         description: Build a wall around your town.
