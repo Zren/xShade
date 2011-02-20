@@ -1,4 +1,4 @@
-package com.shade.bukkit.xshade;
+package ca.xshade.bukkit.xshade;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 
-import com.shade.bukkit.util.Direction;
+import ca.xshade.bukkit.util.Direction;
 
 public class Portal {
 	private Block base;

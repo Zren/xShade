@@ -1,4 +1,4 @@
-package com.shade.bukkit.xshade;
+package ca.xshade.bukkit.xshade;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

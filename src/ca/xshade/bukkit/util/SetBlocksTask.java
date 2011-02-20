@@ -1,4 +1,4 @@
-package com.shade.bukkit.util;
+package ca.xshade.bukkit.util;
 
 import java.util.List;
 

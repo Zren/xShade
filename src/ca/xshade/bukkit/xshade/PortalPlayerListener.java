@@ -1,4 +1,4 @@
-package com.shade.bukkit.xshade;
+package ca.xshade.bukkit.xshade;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -17,10 +17,10 @@ import org.bukkit.event.player.PlayerListener;
 import org.bukkit.event.player.PlayerMoveEvent;
 import org.bukkit.plugin.Plugin;
 
-import com.shade.bukkit.util.Direction;
-import com.shade.bukkit.util.MinecraftTools;
-import com.shade.bukkit.util.SetBlockTask;
-import com.shade.bukkit.util.TeleportTask;
+import ca.xshade.bukkit.util.Direction;
+import ca.xshade.bukkit.util.MinecraftTools;
+import ca.xshade.bukkit.util.SetBlockTask;
+import ca.xshade.bukkit.util.TeleportTask;
 
 public class PortalPlayerListener extends PlayerListener {
 	private Map<Player,Portal[]> portalList = new HashMap<Player,Portal[]>();

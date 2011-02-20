@@ -1,4 +1,4 @@
-package com.shade.bukkit.xshade;
+package ca.xshade.bukkit.xshade;
 
 import me.taylorkelly.teleplus.AimBlock;
 
