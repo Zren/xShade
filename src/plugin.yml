@@ -1,4 +1,4 @@
-name: xShade
+name: XShade
 main: com.shade.bukkit.xshade.XShade
 version: 1.4.0
 commands:

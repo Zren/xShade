@@ -5,10 +5,10 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 
-import com.shade.bukkit.towny.Towny;
-import com.shade.bukkit.towny.TownyException;
-import com.shade.bukkit.towny.object.Resident;
-import com.shade.bukkit.towny.object.Town;
+import ca.xshade.bukkit.towny.Towny;
+import ca.xshade.bukkit.towny.TownyException;
+import ca.xshade.bukkit.towny.object.Resident;
+import ca.xshade.bukkit.towny.object.Town;
 
 public class WallGenCommand extends Command {
 	Plugin plugin;
